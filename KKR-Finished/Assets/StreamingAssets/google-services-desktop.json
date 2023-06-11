@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "979361897883",
+    "firebase_url": "https://kraken-rush-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kraken-rush",
+    "storage_bucket": "kraken-rush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979361897883:android:9e176770667afc10a4153e",
+        "android_client_info": {
+          "package_name": "com.CyberGameStudio.KrakenRush"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqWKW7CEmVYL5os33pKrL1cEbueraqKoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
